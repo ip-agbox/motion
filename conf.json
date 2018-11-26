@@ -8,5 +8,6 @@
 	"resolution": [640, 480],
 	"fps": 10,
 	"min_area": 1000,
-	"url": "rtsp://user:pass@192.168.2.79:554/Streaming/Channels/201"
+	"url": "rtsp://user:pass@192.168.2.79:554/Streaming/Channels/201",
+	"name_cam": "name_cam"
 }
