@@ -1,0 +1,12 @@
+{
+	"show_video": true,
+	"use_dropbox": false,
+	"min_upload_seconds": 3.0,
+	"min_motion_frames": 8,
+	"camera_warmup_time": 2.5,
+	"delta_thresh": 5,
+	"resolution": [640, 480],
+	"fps": 10,
+	"min_area": 1000,
+	"url": "rtsp://user:pass@192.168.2.79:554/Streaming/Channels/201"
+}
